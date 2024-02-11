@@ -1,3 +1,5 @@
+#its not my original project it was desgined by angela YU
+
 # TinDog Project
 
 HINT: To fiure out which Bootstrap components/snippets are used. Refer to the PDF below:
